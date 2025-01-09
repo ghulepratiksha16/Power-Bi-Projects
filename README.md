@@ -6,7 +6,8 @@ Project Name: IPL Data Analysis
 ● Winning percentages based on toss decisions.
 ● Matches won by teams from various venues.
 ● Matches won by teams across various venues.
-Project File Name : IPL DATA ANALYSIS
+
+Project File Name : IPL DATA ANALYSIS.pdf
 
 
 Project Name: Sales Data Analysis
@@ -20,4 +21,4 @@ next 15 days.
 that can drive strategic decisions, support the supermarket’s goals for growth, efficiency, and customer
 satisfaction.
 
-Project File Name : Sales
+Project File Name : Sales.pdf
