@@ -6,6 +6,8 @@ Project Name: IPL Data Analysis
 ● Winning percentages based on toss decisions.
 ● Matches won by teams from various venues.
 ● Matches won by teams across various venues.
+Project File Name : IPL DATA ANALYSIS
+
 
 Project Name: Sales Data Analysis
 ● Dashboard Creation: Identify the KPIs, design an intuitive and visually appealing dashboard, add interactive
@@ -17,3 +19,5 @@ next 15 days.
 ● Actionable Insights and Recommendations: The end goal is to deliver insights and actionable information
 that can drive strategic decisions, support the supermarket’s goals for growth, efficiency, and customer
 satisfaction.
+
+Project File Name : Sales
